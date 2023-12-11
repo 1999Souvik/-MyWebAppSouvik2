@@ -54,4 +54,4 @@ jobs:
           app-name: 'MyWebAppSouvik2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E60F79EFBB94C748C696A07B4F091A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B314B7E27AEC4B5ABAD5CCD7C5429394 }}
